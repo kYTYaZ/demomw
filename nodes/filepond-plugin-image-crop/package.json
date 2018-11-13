@@ -1,0 +1,50 @@
+{
+  "_from": "filepond-plugin-image-crop",
+  "_id": "filepond-plugin-image-crop@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-cGkyepmbqI1H8B5pTk1SDCP5KRXZf0dDiA9LxdpPP1y5k+JGm8eIu1ZydmIVJHygOkyAZLvpEV7g0i83eLi6gw==",
+  "_location": "/filepond-plugin-image-crop",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "filepond-plugin-image-crop",
+    "name": "filepond-plugin-image-crop",
+    "escapedName": "filepond-plugin-image-crop",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/filepond-plugin-image-crop/-/filepond-plugin-image-crop-2.0.0.tgz",
+  "_shasum": "a6a40c11c7cadb81b841ab1f8807871157b3277f",
+  "_spec": "filepond-plugin-image-crop",
+  "_where": "/var/www/html/meetwork",
+  "author": {
+    "name": "PQINA",
+    "url": "https://pqina.nl"
+  },
+  "browser": "dist/filepond-plugin-image-crop.js",
+  "bugs": {
+    "url": "https://github.com/pqina/filepond-plugin-image-crop/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Image Crop Plugin for FilePond",
+  "homepage": "https://pqina.nl/filepond",
+  "license": "MIT",
+  "main": "dist/filepond-plugin-image-crop.js",
+  "module": "dist/filepond-plugin-image-crop.esm.js",
+  "name": "filepond-plugin-image-crop",
+  "peerDependencies": {
+    "filepond": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqina/filepond-plugin-image-crop.git"
+  },
+  "version": "2.0.0"
+}

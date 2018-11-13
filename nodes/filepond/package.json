@@ -1,0 +1,57 @@
+{
+  "_from": "filepond@^3.0.2",
+  "_id": "filepond@3.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-ArRDTCX1T8hSmfCgd7K5Z7ngF4dFyRCNMHElDC03hJQAC+LROBkQWMHU4/zWPqhBZc1mBLPqHUqeN78MLlc/Ow==",
+  "_location": "/filepond",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "filepond@^3.0.2",
+    "name": "filepond",
+    "escapedName": "filepond",
+    "rawSpec": "^3.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^3.0.2"
+  },
+  "_requiredBy": [
+    "/vue-filepond"
+  ],
+  "_resolved": "https://registry.npmjs.org/filepond/-/filepond-3.0.2.tgz",
+  "_shasum": "83a88ab2ba8a1584048954cd364a489ceab0de50",
+  "_spec": "filepond@^3.0.2",
+  "_where": "/var/www/html/meetwork/node_modules/vue-filepond",
+  "author": {
+    "name": "PQINA",
+    "url": "https://pqina.nl"
+  },
+  "browser": "dist/filepond.js",
+  "bugs": {
+    "url": "https://github.com/pqina/filepond/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "FilePond, Where files go to stretch their bits.",
+  "homepage": "https://pqina.nl/filepond",
+  "keywords": [
+    "javascript",
+    "file",
+    "upload",
+    "drag",
+    "drop",
+    "browse",
+    "paste",
+    "image",
+    "preview"
+  ],
+  "license": "MIT",
+  "main": "dist/filepond.js",
+  "module": "dist/filepond.esm.js",
+  "name": "filepond",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqina/filepond.git"
+  },
+  "version": "3.0.2"
+}

@@ -1,0 +1,50 @@
+{
+  "_from": "filepond-plugin-image-preview@^3.0.0",
+  "_id": "filepond-plugin-image-preview@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-UfcXa0GRvg1++lAcUSdbVpqETqiPBg9uedQ1b7kwyI0d5y/ZTh1z4R1BD0gxCYmWU7ddIUtrPOTmY4p6mXYImg==",
+  "_location": "/filepond-plugin-image-preview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "filepond-plugin-image-preview@^3.0.0",
+    "name": "filepond-plugin-image-preview",
+    "escapedName": "filepond-plugin-image-preview",
+    "rawSpec": "^3.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/filepond-plugin-image-preview/-/filepond-plugin-image-preview-3.0.0.tgz",
+  "_shasum": "4a497914172c64f041c2ffb9d66e23e429b7e5fb",
+  "_spec": "filepond-plugin-image-preview@^3.0.0",
+  "_where": "/var/www/html/meetwork",
+  "author": {
+    "name": "PQINA",
+    "url": "https://pqina.nl"
+  },
+  "browser": "dist/filepond-plugin-image-preview.js",
+  "bugs": {
+    "url": "https://github.com/pqina/filepond-plugin-image-preview/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Image Preview Plugin for FilePond",
+  "homepage": "https://pqina.nl/filepond",
+  "license": "MIT",
+  "main": "dist/filepond-plugin-image-preview.js",
+  "module": "dist/filepond-plugin-image-preview.esm.js",
+  "name": "filepond-plugin-image-preview",
+  "peerDependencies": {
+    "filepond": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqina/filepond-plugin-image-preview.git"
+  },
+  "version": "3.0.0"
+}
